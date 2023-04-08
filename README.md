@@ -1,6 +1,6 @@
 # Hi there, Hello!
 ## About
-I am a music producer who is learning javascript/web developoment and putting all of that learning into [my WebDevBootcamp repository.](https://github.com/cjwolfe/WebDevBootcamp)
+I am a [music producer](www.wolfetrax.net) who is learning javascript/web developoment and putting all of that learning into [my WebDevBootcamp repository.](https://github.com/cjwolfe/WebDevBootcamp)
 I want to demonstrate to myself (and I suppose to others) that I am capable of working on something and growing every single day.
 So, by the end of each day I have some sort of post to github on what I have worked on that day.
 ## The idea
@@ -10,6 +10,7 @@ The idea behind this project is that I have somewhere to post my "Everydays". [S
 - Everydays must be posted every day
 - There is no pre-working on Everydays, otherwise it is not an everyday.
 
+
 ### Caveats:
 - As this is me learning to code, some of the contributions may be as short as 1-2 lines long!
 - Over the course of completing the entire bootcamp on udemy, I will eventually cover all of the sections
@@ -18,6 +19,9 @@ The idea behind this project is that I have somewhere to post my "Everydays". [S
 ## Summary
 1. I'mma post something here everyday, working on coding and thinking about coding every day.
 1. That's it.
+
+### Contact info:
+If you'd like to contact me, the best way is [here](www.wolfetrax.net/contact)
 
 <!--
 **cjwolfe/cjwolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
