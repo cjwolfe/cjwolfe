@@ -1,6 +1,6 @@
 # Hi there, Hello!
 ## About
-I am a [music producer](www.wolfetrax.net) who is learning javascript/web developoment and putting all of that learning into [my WebDevBootcamp repository.](https://github.com/cjwolfe/WebDevBootcamp)
+I am a [music producer](http://www.wolfetrax.net) who is learning javascript/web developoment and putting all of that learning into [my WebDevBootcamp repository.](https://github.com/cjwolfe/WebDevBootcamp)
 I want to demonstrate to myself (and I suppose to others) that I am capable of working on something and growing every single day.
 So, by the end of each day I have some sort of post to github on what I have worked on that day.
 ## The idea
