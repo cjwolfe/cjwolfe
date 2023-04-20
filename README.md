@@ -21,7 +21,7 @@ The idea behind this project is that I have somewhere to post my "Everydays". [S
 1. That's it.
 
 ### Contact info:
-If you'd like to contact me, the best way is [here](www.wolfetrax.net/contact)
+If you'd like to contact me, the best way is [here](http://www.wolfetrax.net/contact)
 
 <!--
 **cjwolfe/cjwolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
