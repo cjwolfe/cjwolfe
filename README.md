@@ -9,6 +9,7 @@ The idea behind this project is that I have somewhere to post my "Everydays". [S
 - Everydays do not need to be long, or good
 - Everydays must be posted every day
 - There is no pre-working on Everydays, otherwise it is not an everyday.
+- Everydays must be submitted by midnight
 
 ### Caveats:
 - As this is me learning to code, some of the contributions may be as short as 1-2 lines long!
